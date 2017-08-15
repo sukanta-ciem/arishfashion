@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <script type="text/javascript" src="js/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" charset="utf-8">
-$(document).ready(){
+$(document).ready(function(){
 	$(".homepage").css("height", $(window).height());
 });
 setTimeout(function(){ loadView(); }, 1000);
@@ -13,7 +13,7 @@ function loadView(){
 	var loaded = localStorage.getItem("loaded");
 	if(loaded === null || typeof loaded === typeof undefined || loaded==0){
 		localStorage.setItem("loaded", 1);
-		//window.location.href='http://arishfashion.com/app/index.php';
+		window.location.href='http://arishfashion.com/app/index.php';
 	}else{
 		localStorage.setItem("loaded", 0);
 	}
