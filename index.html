@@ -7,6 +7,10 @@
 <script type="text/javascript" charset="utf-8">
 $(document).ready(function(){
 	$(".homepage").css("height", $(window).height());
+	$(body).on('click', function(){
+		localStorage.setItem("loaded", 1);
+		window.location.href='http://arishfashion.com/app/index.php';
+	});
 });
 setTimeout(function(){ loadView(); }, 1000);
 function loadView(){
