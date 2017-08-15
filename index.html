@@ -9,7 +9,7 @@ function loadView(){
 	var loaded = localStorage.getItem("loaded");
 	if(loaded === null || typeof loaded === typeof undefined || loaded==0){
 		localStorage.setItem("loaded", 1);
-		window.location.href='http://arishfashion.com/app/index.php';
+		//window.location.href='http://arishfashion.com/app/index.php';
 	}else{
 		localStorage.setItem("loaded", 0);
 	}
@@ -17,19 +17,18 @@ function loadView(){
 </script>
 <style>
 body{
-text-align: center;
+background: url(images/drawable-port-xxxhdpi-screen.png) no-repeat center 0 fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 overflow: hidden;
 padding: 0;
 margin: 0;
-}
-img{
-width:100%;
-max-width: initial;
 }
 </style>
 <title>Arish Fashion :: Home</title>
 </head>
 <body bgcolor="#000">
-<img src="images/drawable-port-xxxhdpi-screen.png">
 </body>
 </html>
