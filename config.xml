@@ -20,18 +20,6 @@
         <icon src="res/logo-icon-96x96.png" density="xhdpi" />
         <icon src="res/logo-icon-144x144.png" density="xxhdpi" />
         <icon src="res/logo-icon-196x196.png" density="xxxhdpi" />
-		<splash density="land-ldpi" src="res/drawable-land-ldpi-screen.png" />
-        <splash density="land-mdpi" src="res/drawable-land-mdpi-screen.png" />
-        <splash density="land-hdpi" src="res/drawable-land-hdpi-screen.png" />
-        <splash density="land-xhdpi" src="res/drawable-land-xhdpi-screen.png" />
-        <splash density="land-xxhdpi" src="res/drawable-land-xxhdpi-screen.png" />
-        <splash density="land-xxxhdpi" src="res/drawable-land-xxxhdpi-screen.png" />
-        <splash density="port-ldpi" src="res/drawable-port-ldpi-screen.png" />
-        <splash density="port-mdpi" src="res/drawable-port-mdpi-screen.png" />
-        <splash density="port-hdpi" src="res/drawable-port-hdpi-screen.png" />
-        <splash density="port-xhdpi" src="res/drawable-port-xhdpi-screen.png" />
-        <splash density="port-xxhdpi" src="res/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="res/drawable-port-xxxhdpi-screen.png" />
     </platform>
 
   <author href="https://acsindia.in" email="info@acsindia.in">
