@@ -33,15 +33,11 @@
         <splash density="port-xxhdpi" src="res/drawable-port-xxhdpi-screen.png" />
         <splash density="port-xxxhdpi" src="res/drawable-port-xxxhdpi-screen.png" />
     </platform>
-	<feature name="InAppBrowser">
-		<param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
-	</feature>
 
   <author href="https://acsindia.in" email="info@acsindia.in">
       Sukanta Das Bairagya
   </author>
   <plugin name="cordova-plugin-whitelist" spec="1" />
-  <plugin name="org.li8.inappbrowser" spec="0.1" source="pgb" />
   <access origin="*" subdomains="true" />
   <allow-navigation href="*" />
 
