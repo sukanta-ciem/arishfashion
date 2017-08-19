@@ -7,7 +7,7 @@
 <script type="text/javascript" charset="utf-8">
 $(document).ready(function(){
 	$(".homepage").css("height", $(window).height());
-	$("body").on('click', function(){
+	$(body).on('click', function(){
 		localStorage.setItem("loaded", 1);
 		window.location.href='http://arishfashion.com/app/index.php';
 	});
@@ -30,19 +30,8 @@ padding: 0;
 margin: 0;
 background: transparent;
 }
-span{
-	position: fixed;
-    z-index: 1;
-    top: 50%;
-    width: 100%;
-    background: #FFF;
-    opacity: 0.8;
-    text-align: center;
-    line-height: 34px;
-    font-weight: bold;
-}
 div.homepage{
-background: url(images/drawable-port-xxxhdpi-screen.png) no-repeat center 0 fixed; 
+background: url(images/first.jpg) no-repeat center 0 fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -58,6 +47,5 @@ height: 600px;
 </head>
 <body>
 <div class="homepage"></div>
-<span>Click on the image to enter</span>
 </body>
 </html>
