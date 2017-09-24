@@ -30,6 +30,10 @@
       <gap:platform name="android" />
       <gap:platform name="ios" />
   </gap:platforms>
+    
+  <platform name="android" />
+  <platform name="ios" />
+  <platform name="winphone" /> 
   
   <plugin name="cordova-plugin-whitelist" spec="1" />
   <access origin="*" subdomains="true" />
