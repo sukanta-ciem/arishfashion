@@ -23,15 +23,32 @@
     </platform>
     
     <platform name="ios">
-        <icon src="res/logo-icon-36x36.png" />
-        <icon src="res/logo-icon-48x48.png" />
-        <icon src="res/logo-icon-72x72.png" />
-        <icon src="res/logo-icon-76x76.png" />
-        <icon src="res/logo-icon-96x96.png" />
-        <icon src="res/logo-icon-120x120.png" />
-        <icon src="res/logo-icon-144x144.png" />
-        <icon src="res/logo-icon-152x152.png" />
-        <icon src="res/logo-icon-196x196.png" />
+        <icon src="res/iTunesArtwork@1x.png" />
+        <icon src="res/iTunesArtwork@2x.png" />
+        <icon src="res/iTunesArtwork@3x.png" />
+        <icon src="res/ios/Icon-App-20x20@1x.png" />
+        <icon src="res/ios/Icon-App-20x20@2x.png" />
+        <icon src="res/ios/Icon-App-20x20@3x.png" />
+        <icon src="res/ios/Icon-App-29x29@1x.png" />
+        <icon src="res/ios/Icon-App-29x29@2x.png" />
+        <icon src="res/ios/Icon-App-29x29@3x.png" />
+        <icon src="res/ios/Icon-App-40x40@1x.png" />
+        <icon src="res/ios/Icon-App-40x40@2x.png" />
+        <icon src="res/ios/Icon-App-40x40@3x.png" />
+        <icon src="res/ios/Icon-App-57x57@1x.png" />
+        <icon src="res/ios/Icon-App-57x57@2x.png" />
+        <icon src="res/ios/Icon-App-60x60@1x.png" />
+        <icon src="res/ios/Icon-App-60x60@2x.png" />
+        <icon src="res/ios/Icon-App-60x60@3x.png" />
+        <icon src="res/ios/Icon-App-72x72@1x.png" />
+        <icon src="res/ios/Icon-App-72x72@2x.png" />
+        <icon src="res/ios/Icon-App-76x76@1x.png" />
+        <icon src="res/ios/Icon-App-76x76@2x.png" />
+        <icon src="res/ios/Icon-App-76x76@3x.png" />
+        <icon src="res/ios/Icon-App-83.5x83.5@2x.png" />
+        <icon src="res/ios/Icon-Small-50x50@1x.png" />
+        <icon src="res/ios/Icon-Small-50x50@2x.png" />
+        <icon src="res/ios/ItunesArtwork@2x.png" />
     </platform>
 
   <author href="https://acsindia.in" email="info@acsindia.in">
