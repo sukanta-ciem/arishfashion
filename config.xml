@@ -26,8 +26,11 @@
         <icon src="res/logo-icon-36x36.png" />
         <icon src="res/logo-icon-48x48.png" />
         <icon src="res/logo-icon-72x72.png" />
+        <icon src="res/logo-icon-76@76.png" />
         <icon src="res/logo-icon-96x96.png" />
+        <icon src="res/logo-icon-120@120.png" />
         <icon src="res/logo-icon-144x144.png" />
+        <icon src="res/logo-icon-152@152.png" />
         <icon src="res/logo-icon-196x196.png" />
     </platform>
 
